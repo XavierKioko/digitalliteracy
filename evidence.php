@@ -99,7 +99,7 @@
                     <img src="media/image4.jpeg" alt="Event Photo" class="gallery-img w-full h-full object-cover object-top group-hover:scale-105 transition duration-700 ease-out">
                 </div>
                 <div class="px-6 py-4 border-t border-line/60 bg-ink flex justify-between items-center">
-                    <span class="font-display font-semibold text-ivory tracking-wide">Shillah Mwadosho</span>
+                    <span class="font-display font-semibold text-ivory tracking-wide">Shillah Mwadosho and Lucy Wanjiku</span>
                     <span class="w-8 h-8 rounded-full bg-white/5 border border-line flex items-center justify-center text-moss"><?= icon('image', 'w-4 h-4') ?></span>
                 </div>
             </div>
